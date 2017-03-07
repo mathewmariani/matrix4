@@ -11,6 +11,8 @@
 #include <cstring>
 #include <math.h>
 
+#include "matrix4.h"
+
 Matrix4::Matrix4() {
 	identity();
 }
